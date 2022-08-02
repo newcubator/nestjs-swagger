@@ -1,0 +1,1 @@
+Sample Project to demonstrate how to generate a Swagger API Documentation from a NestJS Project 
